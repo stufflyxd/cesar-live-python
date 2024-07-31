@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "Cifra de cesar"
+version = "0.1.0"
+description = "Aqui"
+authors = ["stuffxdd <162352646+stuffxdd@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
